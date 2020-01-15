@@ -1,4 +1,4 @@
-# Testing-Graphene-and-GraphQL
+# Testing-Graphene-and-GraphQL-CRUD-App
 
 # Description of Models
 1) Category of Food (name)
