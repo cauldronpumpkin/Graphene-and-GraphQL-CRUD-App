@@ -14,5 +14,3 @@ python3 manage.py runserver
 1) Django
 2) Graphene
 3) GraphQL
-4) VueJS
-5) Vue-Apollo
